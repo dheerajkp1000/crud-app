@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com", "phone": "123-456-7890" },
+      { "id": 2, "name": "Jane Doe", "email": "jane@example.com", "phone": "987-654-3210" },
+      { "id": 3, "name": "Michael Smith", "email": "michael@example.com", "phone": "321-654-9870" },
+      { "id": 4, "name": "ram", "email": "ran@example.com", "phone": "7377898765" },
+      { "id": 5, "name": "Doe", "email": "doe@example.com", "phone": "87-654-3210" },
+      { "id": 6, "name": "Smith", "email": "Smith@example.com", "phone": "111-654-9870" }
+    ]
+  }
+  
